@@ -120,7 +120,7 @@ h2 {
     border-radius: 10pt;
     float: none;
     display: block;
-    margin: auto;
+    margin: 0px auto 15px auto;
     width: cover;
   }
 
